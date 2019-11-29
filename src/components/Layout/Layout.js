@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import AUX from '../../hoc/Aux_';
 import TopBar from '../Topbar/Topbar';
-import Header from '../Header/Header';
 import HeaderLight from '../Header/HeaderLight';
 import TopbarLight from '../Header/TopbarLight';
 import Footer from '../Footer/Footer';
@@ -14,7 +13,7 @@ class Layout extends Component{
             {this.props.loginpage  ? this.props.children :
                 <main>
                 {this.props.islight ?  <TopbarLight /> : <TopBar />  }
-                {this.props.islight ?   <HeaderLight />  :  <Header /> }
+                {this.props.islight ?   <HeaderLight />  :  <HeaderLight /> }
                 {this.props.children}
                 <Footer />
                 </main>

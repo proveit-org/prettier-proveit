@@ -7,10 +7,7 @@ class mainbuilder extends Component{
     render(){
         return(
                 <Switch>
-
                     <Route exact path="/" component={HomeNine} />
-
-
                 </Switch>
         );
     }

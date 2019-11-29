@@ -1,9 +1,9 @@
 import React , {Component } from 'react';
 import Services from '../Sections/Services';
 import Features from '../Sections/Features';
-import Counter from '../Sections/Counter';
-import Pricing from '../Sections/Pricing';
-import Client from '../Sections/Client';
+import Doc from '../Sections/Doc';
+import Metaverse from '../Sections/Metaverse';
+import Team from '../Sections/Team';
 import Faq from '../Sections/Faq';
 import { Link } from 'react-router-dom';
 import AUX from '../../../hoc/Aux_';
@@ -77,10 +77,10 @@ class HomeNine extends Component{
 
 
             <Features />
-            <Counter />
+            <Doc />
             <Services />
-            <Pricing />
-            <Client />
+            <Metaverse />
+            <Team />
             <Faq />
         </AUX>
         );
