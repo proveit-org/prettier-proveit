@@ -46,7 +46,7 @@ class Header extends Component{
 
         <div id="navigation">
             <ul className="navigation-menu ">
-                
+
                 <li className="has-submenu ">
                     <a href="#features">Features</a>
                 </li>
