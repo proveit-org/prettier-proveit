@@ -82,6 +82,7 @@ class HomeNine extends Component{
             <Metaverse />
             <Team />
             <Faq />
+            <tabView />
         </AUX>
         );
     }

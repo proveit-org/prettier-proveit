@@ -1,5 +1,7 @@
 # prettier-proveit
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# temp-link
+The website has been deployed on Zeit. [Prettier-Proveit](https://prettier-proveit.now.sh/).
 
 ## Minimum Requirements
 

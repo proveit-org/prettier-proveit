@@ -10,6 +10,7 @@ class Counter extends Component{
                 <div className="container">
                     <div className="row justify-content-center" id="counter">
                         <div className="text-dark pt-3 pb-3">
+                            <h3 className="section-title pt-5 text-center">What is ProveIT?</h3>
                             <p className="doc-text">
                               Today, in order to prove the existence of a document at a specific point in time you would be required to go to a notary, who would sign and stamp your document, and then submit it to a public registry. To prove the submission of that document you would have to return to a notary and request a letter attesting to the document’s existence in a particular registry.
                             </p>
