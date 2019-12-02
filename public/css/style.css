@@ -311,7 +311,13 @@ a {
 .plan-lable p {
     font-weight: 700;
 }
-
+.price-box:hover .service-icon i {
+    transform: scale(1.1);
+    transition: all 0.5s;
+    color: #fff;
+    background: #00bcdf;
+    box-shadow: 0 0 3px #00bcdf;
+}
 
 /*===========================
     7.Testimonial
