@@ -293,10 +293,17 @@ a {
 .service-box:hover {
     border-color: transparent;
 }
+.equal {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
 
 
 /*===========================
-    6.Pricing
+    6.Metaverse
 =============================*/
 
 .plan-price h2 {
@@ -320,7 +327,7 @@ a {
 }
 
 /*===========================
-    7.Testimonial
+    7.Team
 =============================*/
 
 .testimonial-desc:after {
@@ -391,7 +398,7 @@ a {
 
 
 /*===========================
-    9.Contact-us
+    9.Mewsletter
 ============================*/
 
 .single-contact {

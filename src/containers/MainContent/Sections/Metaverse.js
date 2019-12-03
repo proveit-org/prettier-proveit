@@ -10,7 +10,7 @@ class Pricing extends Component{
                 <section className="section bg-light" id="pricing">
                     <div className="container">
                         <div className="row justify-content-center">
-                            <div className="col-md-8">
+                            <div className="equal col-md-8">
                                 <div className="text-center">
                                     <div className="title-icon">
                                         <i className="mdi mdi-note-multiple-outline"></i>
@@ -21,7 +21,7 @@ class Pricing extends Component{
                             </div>
                         </div>
                         <div className="row mt-5">
-                            <div className="col-lg-3">
+                            <div className="equal col-lg-3">
                                 <div className="price-box p-5 bg-white text-center mt-4">
                                   <div className="service-icon">
                                       <i className="mdi mdi-vector-square text-custom"></i>
@@ -35,7 +35,7 @@ class Pricing extends Component{
 
                                 </div>
                             </div>
-                            <div className="col-lg-3">
+                            <div className="equal col-lg-3">
                                 <div className="price-box p-5 bg-white text-center mt-4">
                                   <div className="service-icon">
                                       <i className="mdi  mdi-currency-usd text-custom"></i>
@@ -43,12 +43,12 @@ class Pricing extends Component{
                                     <div className="plan-name mt-4">
                                     </div>
                                     <div className="plan-desc mt-4">
-                                        <p className="mb-0 text-muted">Expert on asset tokenization <br/> <br/></p>
+                                        <p className="mb-0 text-muted">Expert on asset tokenization</p>
                                     </div>
 
                                 </div>
                             </div>
-                            <div className="col-lg-3">
+                            <div className="equal col-lg-3">
                                 <div className="price-box p-5 bg-white text-center mt-4">
                                   <div className="service-icon ">
                                       <i className="mdi  mdi-domain text-custom"></i>
@@ -57,7 +57,7 @@ class Pricing extends Component{
                                     </div>
                                     <div className="plan-desc mt-4">
                                         <p className="mb-0 text-muted">Blockchain as a Services
-                                          solution<br/> <br/></p>
+                                          solution</p>
                                     </div>
 
                                 </div>

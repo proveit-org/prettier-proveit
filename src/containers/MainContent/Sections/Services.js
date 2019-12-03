@@ -20,7 +20,7 @@ class Services extends Component{
                             </div>
                         </div>
                         <div className="row mt-5">
-                            <div className="col-md-3">
+                            <div className="equal col-md-3">
                                 <div className="service-box text-center p-4 mt-3">
                                     <div className="service-icon">
                                         <i className="mdi mdi-cube-outline text-custom"></i>
@@ -31,7 +31,7 @@ class Services extends Component{
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-md-3">
+                            <div className="equal col-md-3">
                                 <div className="service-box text-center p-4 mt-3">
                                     <div className="service-icon">
                                         <i className="mdi mdi-fingerprint text-custom"></i>
@@ -42,7 +42,7 @@ class Services extends Component{
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-md-3">
+                            <div className="equal col-md-3">
                                 <div className="service-box text-center p-4 mt-3">
                                     <div className="service-icon">
                                         <i className="mdi mdi-marker-check text-custom"></i>
@@ -54,7 +54,7 @@ class Services extends Component{
                                 </div>
                             </div>
 
-                            <div className="col-md-3">
+                            <div className="equal col-md-3">
                                 <div className="service-box text-center p-4 mt-3">
                                     <div className="service-icon">
                                         <i className="mdi mdi-security text-custom"></i>
